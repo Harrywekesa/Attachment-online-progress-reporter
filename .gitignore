@@ -1,0 +1,5 @@
+/.idea
+/backup
+application/cache/session
+api/application/cache/session
+
